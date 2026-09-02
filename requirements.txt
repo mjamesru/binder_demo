@@ -1,3 +1,5 @@
-matplotlib
-sklearn
+tensorflow-cpu==2.12
+scikit-learn
 yellowbrick
+matplotlib
+pandas
